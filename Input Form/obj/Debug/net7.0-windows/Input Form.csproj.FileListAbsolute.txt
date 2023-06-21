@@ -1,0 +1,30 @@
+C:\Users\苏静\Desktop\Input Form\bin\Debug\net7.0-windows\Input Form.exe
+C:\Users\苏静\Desktop\Input Form\bin\Debug\net7.0-windows\Input Form.deps.json
+C:\Users\苏静\Desktop\Input Form\bin\Debug\net7.0-windows\Input Form.runtimeconfig.json
+C:\Users\苏静\Desktop\Input Form\bin\Debug\net7.0-windows\Input Form.dll
+C:\Users\苏静\Desktop\Input Form\bin\Debug\net7.0-windows\Input Form.pdb
+C:\Users\苏静\Desktop\Input Form\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\苏静\Desktop\Input Form\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\苏静\Desktop\Input Form\obj\Debug\net7.0-windows\Input Form.csproj.AssemblyReference.cache
+C:\Users\苏静\Desktop\Input Form\obj\Debug\net7.0-windows\UserControls\DetailCard.baml
+C:\Users\苏静\Desktop\Input Form\obj\Debug\net7.0-windows\UserControls\MyTextBox.baml
+C:\Users\苏静\Desktop\Input Form\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\苏静\Desktop\Input Form\obj\Debug\net7.0-windows\UserControls\DetailCard.g.cs
+C:\Users\苏静\Desktop\Input Form\obj\Debug\net7.0-windows\UserControls\MyTextBox.g.cs
+C:\Users\苏静\Desktop\Input Form\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\苏静\Desktop\Input Form\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\苏静\Desktop\Input Form\obj\Debug\net7.0-windows\Input Form_MarkupCompile.cache
+C:\Users\苏静\Desktop\Input Form\obj\Debug\net7.0-windows\Input Form_MarkupCompile.lref
+C:\Users\苏静\Desktop\Input Form\obj\Debug\net7.0-windows\App.baml
+C:\Users\苏静\Desktop\Input Form\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\苏静\Desktop\Input Form\obj\Debug\net7.0-windows\Input Form.g.resources
+C:\Users\苏静\Desktop\Input Form\obj\Debug\net7.0-windows\Input Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\苏静\Desktop\Input Form\obj\Debug\net7.0-windows\Input Form.AssemblyInfoInputs.cache
+C:\Users\苏静\Desktop\Input Form\obj\Debug\net7.0-windows\Input Form.AssemblyInfo.cs
+C:\Users\苏静\Desktop\Input Form\obj\Debug\net7.0-windows\Input Form.csproj.CoreCompileInputs.cache
+C:\Users\苏静\Desktop\Input Form\obj\Debug\net7.0-windows\Input Form.csproj.CopyComplete
+C:\Users\苏静\Desktop\Input Form\obj\Debug\net7.0-windows\Input Form.dll
+C:\Users\苏静\Desktop\Input Form\obj\Debug\net7.0-windows\refint\Input Form.dll
+C:\Users\苏静\Desktop\Input Form\obj\Debug\net7.0-windows\Input Form.pdb
+C:\Users\苏静\Desktop\Input Form\obj\Debug\net7.0-windows\Input Form.genruntimeconfig.cache
+C:\Users\苏静\Desktop\Input Form\obj\Debug\net7.0-windows\ref\Input Form.dll
