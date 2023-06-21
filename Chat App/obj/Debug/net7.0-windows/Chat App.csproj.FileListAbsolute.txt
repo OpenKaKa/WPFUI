@@ -1,0 +1,42 @@
+C:\Users\苏静\Desktop\Chat App\bin\Debug\net7.0-windows\Chat App.exe
+C:\Users\苏静\Desktop\Chat App\bin\Debug\net7.0-windows\Chat App.deps.json
+C:\Users\苏静\Desktop\Chat App\bin\Debug\net7.0-windows\Chat App.runtimeconfig.json
+C:\Users\苏静\Desktop\Chat App\bin\Debug\net7.0-windows\Chat App.dll
+C:\Users\苏静\Desktop\Chat App\bin\Debug\net7.0-windows\Chat App.pdb
+C:\Users\苏静\Desktop\Chat App\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\苏静\Desktop\Chat App\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\Chat App.csproj.AssemblyReference.cache
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\UserControls\AccountMenu.baml
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\UserControls\Chat Seprator.baml
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\UserControls\ImageLogo.baml
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\UserControls\Item.baml
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\UserControls\MenuButton.baml
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\UserControls\MessageChat.baml
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\UserControls\MyMessageChat.baml
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\UserControls\UserChat.baml
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\App.baml
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\UserControls\AccountMenu.g.cs
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\UserControls\Chat Seprator.g.cs
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\UserControls\ImageLogo.g.cs
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\UserControls\Item.g.cs
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\UserControls\MenuButton.g.cs
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\UserControls\MessageChat.g.cs
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\UserControls\MyMessageChat.g.cs
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\UserControls\UserChat.g.cs
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\Chat App_MarkupCompile.cache
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\Chat App_MarkupCompile.lref
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\Chat App.g.resources
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\Chat App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\Chat App.AssemblyInfoInputs.cache
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\Chat App.AssemblyInfo.cs
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\Chat App.csproj.CoreCompileInputs.cache
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\Chat App.csproj.CopyComplete
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\Chat App.dll
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\refint\Chat App.dll
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\Chat App.pdb
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\Chat App.genruntimeconfig.cache
+C:\Users\苏静\Desktop\Chat App\obj\Debug\net7.0-windows\ref\Chat App.dll
