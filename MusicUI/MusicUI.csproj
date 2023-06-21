@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\C++.png" />
+    <None Remove="Images\CSharp.png" />
+    <None Remove="Images\Go.png" />
+    <None Remove="Images\kaka1.jpg" />
+    <None Remove="Images\kaka2.jpg" />
+    <None Remove="Images\Rust.png" />
+    <None Remove="Images\Taylor Swift.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MahApps.Metro.IconPacks.Material" Version="4.11.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\C++.png" />
+    <Resource Include="Images\CSharp.png" />
+    <Resource Include="Images\Go.png" />
+    <Resource Include="Images\kaka1.jpg" />
+    <Resource Include="Images\kaka2.jpg" />
+    <Resource Include="Images\Rust.png" />
+    <Resource Include="Images\Taylor Swift.png" />
+  </ItemGroup>
+
+</Project>
