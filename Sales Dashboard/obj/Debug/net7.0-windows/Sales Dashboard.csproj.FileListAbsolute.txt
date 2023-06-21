@@ -1,0 +1,34 @@
+C:\Users\苏静\Desktop\Sales Dashboard\bin\Debug\net7.0-windows\Sales Dashboard.exe
+C:\Users\苏静\Desktop\Sales Dashboard\bin\Debug\net7.0-windows\Sales Dashboard.deps.json
+C:\Users\苏静\Desktop\Sales Dashboard\bin\Debug\net7.0-windows\Sales Dashboard.runtimeconfig.json
+C:\Users\苏静\Desktop\Sales Dashboard\bin\Debug\net7.0-windows\Sales Dashboard.dll
+C:\Users\苏静\Desktop\Sales Dashboard\bin\Debug\net7.0-windows\Sales Dashboard.pdb
+C:\Users\苏静\Desktop\Sales Dashboard\bin\Debug\net7.0-windows\LiveCharts.Wpf.dll
+C:\Users\苏静\Desktop\Sales Dashboard\bin\Debug\net7.0-windows\LiveCharts.dll
+C:\Users\苏静\Desktop\Sales Dashboard\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\苏静\Desktop\Sales Dashboard\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\苏静\Desktop\Sales Dashboard\obj\Debug\net7.0-windows\Sales Dashboard.csproj.AssemblyReference.cache
+C:\Users\苏静\Desktop\Sales Dashboard\obj\Debug\net7.0-windows\UserControls\InfoCard.baml
+C:\Users\苏静\Desktop\Sales Dashboard\obj\Debug\net7.0-windows\UserControls\Legends.baml
+C:\Users\苏静\Desktop\Sales Dashboard\obj\Debug\net7.0-windows\UserControls\UserCard.baml
+C:\Users\苏静\Desktop\Sales Dashboard\obj\Debug\net7.0-windows\App.baml
+C:\Users\苏静\Desktop\Sales Dashboard\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\苏静\Desktop\Sales Dashboard\obj\Debug\net7.0-windows\UserControls\InfoCard.g.cs
+C:\Users\苏静\Desktop\Sales Dashboard\obj\Debug\net7.0-windows\UserControls\Legends.g.cs
+C:\Users\苏静\Desktop\Sales Dashboard\obj\Debug\net7.0-windows\UserControls\UserCard.g.cs
+C:\Users\苏静\Desktop\Sales Dashboard\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\苏静\Desktop\Sales Dashboard\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\苏静\Desktop\Sales Dashboard\obj\Debug\net7.0-windows\Sales Dashboard_MarkupCompile.cache
+C:\Users\苏静\Desktop\Sales Dashboard\obj\Debug\net7.0-windows\Sales Dashboard_MarkupCompile.lref
+C:\Users\苏静\Desktop\Sales Dashboard\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\苏静\Desktop\Sales Dashboard\obj\Debug\net7.0-windows\Sales Dashboard.g.resources
+C:\Users\苏静\Desktop\Sales Dashboard\obj\Debug\net7.0-windows\Sales Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\苏静\Desktop\Sales Dashboard\obj\Debug\net7.0-windows\Sales Dashboard.AssemblyInfoInputs.cache
+C:\Users\苏静\Desktop\Sales Dashboard\obj\Debug\net7.0-windows\Sales Dashboard.AssemblyInfo.cs
+C:\Users\苏静\Desktop\Sales Dashboard\obj\Debug\net7.0-windows\Sales Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\苏静\Desktop\Sales Dashboard\obj\Debug\net7.0-windows\Sales Dashboard.csproj.CopyComplete
+C:\Users\苏静\Desktop\Sales Dashboard\obj\Debug\net7.0-windows\Sales Dashboard.dll
+C:\Users\苏静\Desktop\Sales Dashboard\obj\Debug\net7.0-windows\refint\Sales Dashboard.dll
+C:\Users\苏静\Desktop\Sales Dashboard\obj\Debug\net7.0-windows\Sales Dashboard.pdb
+C:\Users\苏静\Desktop\Sales Dashboard\obj\Debug\net7.0-windows\Sales Dashboard.genruntimeconfig.cache
+C:\Users\苏静\Desktop\Sales Dashboard\obj\Debug\net7.0-windows\ref\Sales Dashboard.dll

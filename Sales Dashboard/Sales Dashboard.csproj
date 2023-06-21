@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>Sales_Dashboard</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\purchase.png" />
+    <None Remove="Images\return.png" />
+    <None Remove="Images\sale.png" />
+    <None Remove="Images\u1.png" />
+    <None Remove="Images\u2.png" />
+    <None Remove="Images\u3.png" />
+    <None Remove="Images\u4.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LiveCharts.Wpf.NetCore3" Version="0.9.7" />
+    <PackageReference Include="MahApps.Metro.IconPacks.Material" Version="4.11.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\purchase.png" />
+    <Resource Include="Images\return.png" />
+    <Resource Include="Images\sale.png" />
+    <Resource Include="Images\u1.png" />
+    <Resource Include="Images\u2.png" />
+    <Resource Include="Images\u3.png" />
+    <Resource Include="Images\u4.png" />
+  </ItemGroup>
+
+</Project>
