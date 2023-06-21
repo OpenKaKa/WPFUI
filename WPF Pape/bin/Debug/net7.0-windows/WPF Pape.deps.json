@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WPF Pape/1.0.0": {
+        "runtime": {
+          "WPF Pape.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPF Pape/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,22 @@
+C:\Users\苏静\Desktop\WPF Pape\obj\Debug\net7.0-windows\WPF Pape.csproj.AssemblyReference.cache
+C:\Users\苏静\Desktop\WPF Pape\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\苏静\Desktop\WPF Pape\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\苏静\Desktop\WPF Pape\obj\Debug\net7.0-windows\WPF Pape_MarkupCompile.cache
+C:\Users\苏静\Desktop\WPF Pape\obj\Debug\net7.0-windows\WPF Pape_MarkupCompile.lref
+C:\Users\苏静\Desktop\WPF Pape\bin\Debug\net7.0-windows\WPF Pape.exe
+C:\Users\苏静\Desktop\WPF Pape\bin\Debug\net7.0-windows\WPF Pape.deps.json
+C:\Users\苏静\Desktop\WPF Pape\bin\Debug\net7.0-windows\WPF Pape.runtimeconfig.json
+C:\Users\苏静\Desktop\WPF Pape\bin\Debug\net7.0-windows\WPF Pape.dll
+C:\Users\苏静\Desktop\WPF Pape\bin\Debug\net7.0-windows\WPF Pape.pdb
+C:\Users\苏静\Desktop\WPF Pape\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\苏静\Desktop\WPF Pape\obj\Debug\net7.0-windows\App.baml
+C:\Users\苏静\Desktop\WPF Pape\obj\Debug\net7.0-windows\WPF Pape.g.resources
+C:\Users\苏静\Desktop\WPF Pape\obj\Debug\net7.0-windows\WPF Pape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\苏静\Desktop\WPF Pape\obj\Debug\net7.0-windows\WPF Pape.AssemblyInfoInputs.cache
+C:\Users\苏静\Desktop\WPF Pape\obj\Debug\net7.0-windows\WPF Pape.AssemblyInfo.cs
+C:\Users\苏静\Desktop\WPF Pape\obj\Debug\net7.0-windows\WPF Pape.csproj.CoreCompileInputs.cache
+C:\Users\苏静\Desktop\WPF Pape\obj\Debug\net7.0-windows\WPF Pape.dll
+C:\Users\苏静\Desktop\WPF Pape\obj\Debug\net7.0-windows\refint\WPF Pape.dll
+C:\Users\苏静\Desktop\WPF Pape\obj\Debug\net7.0-windows\WPF Pape.pdb
+C:\Users\苏静\Desktop\WPF Pape\obj\Debug\net7.0-windows\WPF Pape.genruntimeconfig.cache
+C:\Users\苏静\Desktop\WPF Pape\obj\Debug\net7.0-windows\ref\WPF Pape.dll
