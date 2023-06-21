@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ICvqKzaMyxwmStsPZUrMjUSSp5G1S1zHV1pqj7zfZvj3JlBHAAGwT4D1PVbdKPCu4Gj1WboRyRoXuUCaJV3X3Q==",
+  "dgSpecHash": "gfnWGuSFnBRoD9QDMp/mlsaDbfnPdhlC1rJr9X4YFRh8FEir83+vY6dSgrN+T/MZDnE6xEwv5hPN5y3Jf97fnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\苏静\\Desktop\\MusicUI\\MusicUI.csproj",
+  "projectFilePath": "A:\\WPFUI\\MusicUI\\MusicUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\苏静\\.nuget\\packages\\mahapps.metro.iconpacks.material\\4.11.0\\mahapps.metro.iconpacks.material.4.11.0.nupkg.sha512"
   ],

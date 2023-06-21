@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\苏静\Desktop\MusicUI\obj\Debug\net7.0-windows\
+A:\WPFUI\MusicUI\obj\Debug\net7.0-windows\
 MusicUI
 none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
-C:\Users\苏静\Desktop\MusicUI\App.xaml
+A:\WPFUI\MusicUI\App.xaml
 41563956972
 
 8204062254
 2001947368410
 MainWindow.xaml;UserControls\Playlist.xaml;UserControls\PopularSong.xaml;UserControls\SongItem.xaml;
 
-True
+False
 

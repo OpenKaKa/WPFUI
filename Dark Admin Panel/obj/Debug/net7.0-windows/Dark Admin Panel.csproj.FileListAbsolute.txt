@@ -1,0 +1,31 @@
+C:\Users\苏静\Desktop\Dark Admin Panel\bin\Debug\net7.0-windows\Dark Admin Panel.exe
+C:\Users\苏静\Desktop\Dark Admin Panel\bin\Debug\net7.0-windows\Dark Admin Panel.deps.json
+C:\Users\苏静\Desktop\Dark Admin Panel\bin\Debug\net7.0-windows\Dark Admin Panel.runtimeconfig.json
+C:\Users\苏静\Desktop\Dark Admin Panel\bin\Debug\net7.0-windows\Dark Admin Panel.dll
+C:\Users\苏静\Desktop\Dark Admin Panel\bin\Debug\net7.0-windows\Dark Admin Panel.pdb
+C:\Users\苏静\Desktop\Dark Admin Panel\bin\Debug\net7.0-windows\FontAwesome.Sharp.dll
+C:\Users\苏静\Desktop\Dark Admin Panel\bin\Debug\net7.0-windows\LiveCharts.dll
+C:\Users\苏静\Desktop\Dark Admin Panel\bin\Debug\net7.0-windows\LiveCharts.Wpf.dll
+C:\Users\苏静\Desktop\Dark Admin Panel\obj\Debug\net7.0-windows\Dark Admin Panel.csproj.AssemblyReference.cache
+C:\Users\苏静\Desktop\Dark Admin Panel\obj\Debug\net7.0-windows\UserControls\InfoCard.baml
+C:\Users\苏静\Desktop\Dark Admin Panel\obj\Debug\net7.0-windows\UserControls\Item.baml
+C:\Users\苏静\Desktop\Dark Admin Panel\obj\Debug\net7.0-windows\App.baml
+C:\Users\苏静\Desktop\Dark Admin Panel\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\苏静\Desktop\Dark Admin Panel\obj\Debug\net7.0-windows\UserControls\InfoCard.g.cs
+C:\Users\苏静\Desktop\Dark Admin Panel\obj\Debug\net7.0-windows\UserControls\Item.g.cs
+C:\Users\苏静\Desktop\Dark Admin Panel\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\苏静\Desktop\Dark Admin Panel\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\苏静\Desktop\Dark Admin Panel\obj\Debug\net7.0-windows\Dark Admin Panel_MarkupCompile.cache
+C:\Users\苏静\Desktop\Dark Admin Panel\obj\Debug\net7.0-windows\Dark Admin Panel_MarkupCompile.lref
+C:\Users\苏静\Desktop\Dark Admin Panel\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\苏静\Desktop\Dark Admin Panel\obj\Debug\net7.0-windows\Dark Admin Panel.g.resources
+C:\Users\苏静\Desktop\Dark Admin Panel\obj\Debug\net7.0-windows\Dark Admin Panel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\苏静\Desktop\Dark Admin Panel\obj\Debug\net7.0-windows\Dark Admin Panel.AssemblyInfoInputs.cache
+C:\Users\苏静\Desktop\Dark Admin Panel\obj\Debug\net7.0-windows\Dark Admin Panel.AssemblyInfo.cs
+C:\Users\苏静\Desktop\Dark Admin Panel\obj\Debug\net7.0-windows\Dark Admin Panel.csproj.CoreCompileInputs.cache
+C:\Users\苏静\Desktop\Dark Admin Panel\obj\Debug\net7.0-windows\Dark Admin Panel.csproj.CopyComplete
+C:\Users\苏静\Desktop\Dark Admin Panel\obj\Debug\net7.0-windows\Dark Admin Panel.dll
+C:\Users\苏静\Desktop\Dark Admin Panel\obj\Debug\net7.0-windows\refint\Dark Admin Panel.dll
+C:\Users\苏静\Desktop\Dark Admin Panel\obj\Debug\net7.0-windows\Dark Admin Panel.pdb
+C:\Users\苏静\Desktop\Dark Admin Panel\obj\Debug\net7.0-windows\Dark Admin Panel.genruntimeconfig.cache
+C:\Users\苏静\Desktop\Dark Admin Panel\obj\Debug\net7.0-windows\ref\Dark Admin Panel.dll

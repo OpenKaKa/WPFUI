@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\苏静\\Desktop\\MusicUI\\MusicUI.csproj": {}
+    "A:\\WPFUI\\MusicUI\\MusicUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\苏静\\Desktop\\MusicUI\\MusicUI.csproj": {
+    "A:\\WPFUI\\MusicUI\\MusicUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\苏静\\Desktop\\MusicUI\\MusicUI.csproj",
+        "projectUniqueName": "A:\\WPFUI\\MusicUI\\MusicUI.csproj",
         "projectName": "MusicUI",
-        "projectPath": "C:\\Users\\苏静\\Desktop\\MusicUI\\MusicUI.csproj",
+        "projectPath": "A:\\WPFUI\\MusicUI\\MusicUI.csproj",
         "packagesPath": "C:\\Users\\苏静\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\苏静\\Desktop\\MusicUI\\obj\\",
+        "outputPath": "A:\\WPFUI\\MusicUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
