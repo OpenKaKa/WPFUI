@@ -1,0 +1,23 @@
+C:\Users\苏静\Desktop\Wallet Payment\bin\Debug\net7.0-windows\Wallet Payment.exe
+C:\Users\苏静\Desktop\Wallet Payment\bin\Debug\net7.0-windows\Wallet Payment.deps.json
+C:\Users\苏静\Desktop\Wallet Payment\bin\Debug\net7.0-windows\Wallet Payment.runtimeconfig.json
+C:\Users\苏静\Desktop\Wallet Payment\bin\Debug\net7.0-windows\Wallet Payment.dll
+C:\Users\苏静\Desktop\Wallet Payment\bin\Debug\net7.0-windows\Wallet Payment.pdb
+C:\Users\苏静\Desktop\Wallet Payment\bin\Debug\net7.0-windows\FontAwesome.WPF.dll
+C:\Users\苏静\Desktop\Wallet Payment\obj\Debug\net7.0-windows\Wallet Payment.csproj.AssemblyReference.cache
+C:\Users\苏静\Desktop\Wallet Payment\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\苏静\Desktop\Wallet Payment\obj\Debug\net7.0-windows\App.baml
+C:\Users\苏静\Desktop\Wallet Payment\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\苏静\Desktop\Wallet Payment\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\苏静\Desktop\Wallet Payment\obj\Debug\net7.0-windows\Wallet Payment_MarkupCompile.cache
+C:\Users\苏静\Desktop\Wallet Payment\obj\Debug\net7.0-windows\Wallet Payment.g.resources
+C:\Users\苏静\Desktop\Wallet Payment\obj\Debug\net7.0-windows\Wallet Payment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\苏静\Desktop\Wallet Payment\obj\Debug\net7.0-windows\Wallet Payment.AssemblyInfoInputs.cache
+C:\Users\苏静\Desktop\Wallet Payment\obj\Debug\net7.0-windows\Wallet Payment.AssemblyInfo.cs
+C:\Users\苏静\Desktop\Wallet Payment\obj\Debug\net7.0-windows\Wallet Payment.csproj.CoreCompileInputs.cache
+C:\Users\苏静\Desktop\Wallet Payment\obj\Debug\net7.0-windows\Wallet Payment.csproj.CopyComplete
+C:\Users\苏静\Desktop\Wallet Payment\obj\Debug\net7.0-windows\Wallet Payment.dll
+C:\Users\苏静\Desktop\Wallet Payment\obj\Debug\net7.0-windows\refint\Wallet Payment.dll
+C:\Users\苏静\Desktop\Wallet Payment\obj\Debug\net7.0-windows\Wallet Payment.pdb
+C:\Users\苏静\Desktop\Wallet Payment\obj\Debug\net7.0-windows\Wallet Payment.genruntimeconfig.cache
+C:\Users\苏静\Desktop\Wallet Payment\obj\Debug\net7.0-windows\ref\Wallet Payment.dll
