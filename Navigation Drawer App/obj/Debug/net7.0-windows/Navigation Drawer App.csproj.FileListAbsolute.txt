@@ -1,0 +1,21 @@
+C:\Users\苏静\Desktop\Navigation Drawer App\bin\Debug\net7.0-windows\Navigation Drawer App.exe
+C:\Users\苏静\Desktop\Navigation Drawer App\bin\Debug\net7.0-windows\Navigation Drawer App.deps.json
+C:\Users\苏静\Desktop\Navigation Drawer App\bin\Debug\net7.0-windows\Navigation Drawer App.runtimeconfig.json
+C:\Users\苏静\Desktop\Navigation Drawer App\bin\Debug\net7.0-windows\Navigation Drawer App.dll
+C:\Users\苏静\Desktop\Navigation Drawer App\bin\Debug\net7.0-windows\Navigation Drawer App.pdb
+C:\Users\苏静\Desktop\Navigation Drawer App\obj\Debug\net7.0-windows\Navigation Drawer App.csproj.AssemblyReference.cache
+C:\Users\苏静\Desktop\Navigation Drawer App\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\苏静\Desktop\Navigation Drawer App\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\苏静\Desktop\Navigation Drawer App\obj\Debug\net7.0-windows\Navigation Drawer App_MarkupCompile.cache
+C:\Users\苏静\Desktop\Navigation Drawer App\obj\Debug\net7.0-windows\Navigation Drawer App_MarkupCompile.lref
+C:\Users\苏静\Desktop\Navigation Drawer App\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\苏静\Desktop\Navigation Drawer App\obj\Debug\net7.0-windows\Navigation Drawer App.g.resources
+C:\Users\苏静\Desktop\Navigation Drawer App\obj\Debug\net7.0-windows\Navigation Drawer App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\苏静\Desktop\Navigation Drawer App\obj\Debug\net7.0-windows\Navigation Drawer App.AssemblyInfoInputs.cache
+C:\Users\苏静\Desktop\Navigation Drawer App\obj\Debug\net7.0-windows\Navigation Drawer App.AssemblyInfo.cs
+C:\Users\苏静\Desktop\Navigation Drawer App\obj\Debug\net7.0-windows\Navigation Drawer App.csproj.CoreCompileInputs.cache
+C:\Users\苏静\Desktop\Navigation Drawer App\obj\Debug\net7.0-windows\Navigation Drawer App.dll
+C:\Users\苏静\Desktop\Navigation Drawer App\obj\Debug\net7.0-windows\refint\Navigation Drawer App.dll
+C:\Users\苏静\Desktop\Navigation Drawer App\obj\Debug\net7.0-windows\Navigation Drawer App.pdb
+C:\Users\苏静\Desktop\Navigation Drawer App\obj\Debug\net7.0-windows\Navigation Drawer App.genruntimeconfig.cache
+C:\Users\苏静\Desktop\Navigation Drawer App\obj\Debug\net7.0-windows\ref\Navigation Drawer App.dll

@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>Navigation_Drawer_App</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Icons\Background.png" />
+    <None Remove="Icons\hamburger_icon.png" />
+    <None Remove="Icons\img_contact.png" />
+    <None Remove="Icons\img_home.png" />
+    <None Remove="Icons\img_map.png" />
+    <None Remove="Icons\img_message.png" />
+    <None Remove="Icons\img_setting.png" />
+    <None Remove="Icons\img_signout.png" />
+    <None Remove="Icons\R_01.png" />
+    <None Remove="Icons\shutdown_def.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Icons\Background.png" />
+    <Resource Include="Icons\hamburger_icon.png" />
+    <Resource Include="Icons\img_contact.png" />
+    <Resource Include="Icons\img_home.png" />
+    <Resource Include="Icons\img_map.png" />
+    <Resource Include="Icons\img_message.png" />
+    <Resource Include="Icons\img_setting.png" />
+    <Resource Include="Icons\img_signout.png" />
+    <Resource Include="Icons\R_01.png" />
+    <Resource Include="Icons\shutdown_def.png" />
+  </ItemGroup>
+
+</Project>

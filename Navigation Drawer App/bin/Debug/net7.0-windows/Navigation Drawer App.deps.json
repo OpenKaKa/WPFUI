@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Navigation Drawer App/1.0.0": {
+        "runtime": {
+          "Navigation Drawer App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Navigation Drawer App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
