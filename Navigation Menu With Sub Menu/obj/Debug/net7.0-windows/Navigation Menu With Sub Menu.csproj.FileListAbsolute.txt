@@ -1,0 +1,23 @@
+C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\Navigation Menu With Sub Menu.csproj.AssemblyReference.cache
+C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\Templates.baml
+C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\Navigation Menu With Sub Menu_MarkupCompile.cache
+C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\Navigation Menu With Sub Menu_MarkupCompile.lref
+C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\bin\Debug\net7.0-windows\Navigation Menu With Sub Menu.exe
+C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\bin\Debug\net7.0-windows\Navigation Menu With Sub Menu.deps.json
+C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\bin\Debug\net7.0-windows\Navigation Menu With Sub Menu.runtimeconfig.json
+C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\bin\Debug\net7.0-windows\Navigation Menu With Sub Menu.dll
+C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\bin\Debug\net7.0-windows\Navigation Menu With Sub Menu.pdb
+C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\App.baml
+C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\Navigation Menu With Sub Menu.g.resources
+C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\Navigation Menu With Sub Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\Navigation Menu With Sub Menu.AssemblyInfoInputs.cache
+C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\Navigation Menu With Sub Menu.AssemblyInfo.cs
+C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\Navigation Menu With Sub Menu.csproj.CoreCompileInputs.cache
+C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\Navigation Menu With Sub Menu.dll
+C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\refint\Navigation Menu With Sub Menu.dll
+C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\Navigation Menu With Sub Menu.pdb
+C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\Navigation Menu With Sub Menu.genruntimeconfig.cache
+C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\ref\Navigation Menu With Sub Menu.dll
