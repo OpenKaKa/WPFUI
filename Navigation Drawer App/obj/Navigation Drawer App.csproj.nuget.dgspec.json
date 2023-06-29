@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\苏静\\Desktop\\Navigation Drawer App\\Navigation Drawer App.csproj": {}
+    "A:\\WPFUI\\Navigation Drawer App\\Navigation Drawer App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\苏静\\Desktop\\Navigation Drawer App\\Navigation Drawer App.csproj": {
+    "A:\\WPFUI\\Navigation Drawer App\\Navigation Drawer App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\苏静\\Desktop\\Navigation Drawer App\\Navigation Drawer App.csproj",
+        "projectUniqueName": "A:\\WPFUI\\Navigation Drawer App\\Navigation Drawer App.csproj",
         "projectName": "Navigation Drawer App",
-        "projectPath": "C:\\Users\\苏静\\Desktop\\Navigation Drawer App\\Navigation Drawer App.csproj",
+        "projectPath": "A:\\WPFUI\\Navigation Drawer App\\Navigation Drawer App.csproj",
         "packagesPath": "C:\\Users\\苏静\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\苏静\\Desktop\\Navigation Drawer App\\obj\\",
+        "outputPath": "A:\\WPFUI\\Navigation Drawer App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net7.0-windows</TargetFramework>
+    <TargetFramework>net6.0-windows</TargetFramework>
     <RootNamespace>Navigation_Menu_With_Sub_Menu</RootNamespace>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>

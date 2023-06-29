@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Navigation Menu With Sub Menu/1.0.0": {
+        "runtime": {
+          "Navigation Menu With Sub Menu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Navigation Menu With Sub Menu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

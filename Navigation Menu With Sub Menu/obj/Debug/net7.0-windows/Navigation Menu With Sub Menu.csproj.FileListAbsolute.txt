@@ -21,3 +21,26 @@ C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\r
 C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\Navigation Menu With Sub Menu.pdb
 C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\Navigation Menu With Sub Menu.genruntimeconfig.cache
 C:\Users\苏静\Desktop\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\ref\Navigation Menu With Sub Menu.dll
+A:\WPFUI\Navigation Menu With Sub Menu\bin\Debug\net7.0-windows\Navigation Menu With Sub Menu.exe
+A:\WPFUI\Navigation Menu With Sub Menu\bin\Debug\net7.0-windows\Navigation Menu With Sub Menu.deps.json
+A:\WPFUI\Navigation Menu With Sub Menu\bin\Debug\net7.0-windows\Navigation Menu With Sub Menu.runtimeconfig.json
+A:\WPFUI\Navigation Menu With Sub Menu\bin\Debug\net7.0-windows\Navigation Menu With Sub Menu.dll
+A:\WPFUI\Navigation Menu With Sub Menu\bin\Debug\net7.0-windows\Navigation Menu With Sub Menu.pdb
+A:\WPFUI\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\Navigation Menu With Sub Menu.csproj.AssemblyReference.cache
+A:\WPFUI\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\MainWindow.baml
+A:\WPFUI\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\Templates.baml
+A:\WPFUI\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\MainWindow.g.cs
+A:\WPFUI\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\App.g.cs
+A:\WPFUI\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\Navigation Menu With Sub Menu_MarkupCompile.cache
+A:\WPFUI\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\Navigation Menu With Sub Menu_MarkupCompile.lref
+A:\WPFUI\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\App.baml
+A:\WPFUI\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\Navigation Menu With Sub Menu.g.resources
+A:\WPFUI\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\Navigation Menu With Sub Menu.GeneratedMSBuildEditorConfig.editorconfig
+A:\WPFUI\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\Navigation Menu With Sub Menu.AssemblyInfoInputs.cache
+A:\WPFUI\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\Navigation Menu With Sub Menu.AssemblyInfo.cs
+A:\WPFUI\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\Navigation Menu With Sub Menu.csproj.CoreCompileInputs.cache
+A:\WPFUI\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\Navigation Menu With Sub Menu.dll
+A:\WPFUI\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\refint\Navigation Menu With Sub Menu.dll
+A:\WPFUI\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\Navigation Menu With Sub Menu.pdb
+A:\WPFUI\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\Navigation Menu With Sub Menu.genruntimeconfig.cache
+A:\WPFUI\Navigation Menu With Sub Menu\obj\Debug\net7.0-windows\ref\Navigation Menu With Sub Menu.dll

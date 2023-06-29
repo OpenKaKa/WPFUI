@@ -19,3 +19,24 @@ C:\Users\苏静\Desktop\Navigation Drawer App\obj\Debug\net7.0-windows\refint\Na
 C:\Users\苏静\Desktop\Navigation Drawer App\obj\Debug\net7.0-windows\Navigation Drawer App.pdb
 C:\Users\苏静\Desktop\Navigation Drawer App\obj\Debug\net7.0-windows\Navigation Drawer App.genruntimeconfig.cache
 C:\Users\苏静\Desktop\Navigation Drawer App\obj\Debug\net7.0-windows\ref\Navigation Drawer App.dll
+A:\WPFUI\Navigation Drawer App\bin\Debug\net7.0-windows\Navigation Drawer App.exe
+A:\WPFUI\Navigation Drawer App\bin\Debug\net7.0-windows\Navigation Drawer App.deps.json
+A:\WPFUI\Navigation Drawer App\bin\Debug\net7.0-windows\Navigation Drawer App.runtimeconfig.json
+A:\WPFUI\Navigation Drawer App\bin\Debug\net7.0-windows\Navigation Drawer App.dll
+A:\WPFUI\Navigation Drawer App\bin\Debug\net7.0-windows\Navigation Drawer App.pdb
+A:\WPFUI\Navigation Drawer App\obj\Debug\net7.0-windows\Navigation Drawer App.csproj.AssemblyReference.cache
+A:\WPFUI\Navigation Drawer App\obj\Debug\net7.0-windows\MainWindow.g.cs
+A:\WPFUI\Navigation Drawer App\obj\Debug\net7.0-windows\App.g.cs
+A:\WPFUI\Navigation Drawer App\obj\Debug\net7.0-windows\Navigation Drawer App_MarkupCompile.cache
+A:\WPFUI\Navigation Drawer App\obj\Debug\net7.0-windows\Navigation Drawer App_MarkupCompile.lref
+A:\WPFUI\Navigation Drawer App\obj\Debug\net7.0-windows\MainWindow.baml
+A:\WPFUI\Navigation Drawer App\obj\Debug\net7.0-windows\Navigation Drawer App.g.resources
+A:\WPFUI\Navigation Drawer App\obj\Debug\net7.0-windows\Navigation Drawer App.GeneratedMSBuildEditorConfig.editorconfig
+A:\WPFUI\Navigation Drawer App\obj\Debug\net7.0-windows\Navigation Drawer App.AssemblyInfoInputs.cache
+A:\WPFUI\Navigation Drawer App\obj\Debug\net7.0-windows\Navigation Drawer App.AssemblyInfo.cs
+A:\WPFUI\Navigation Drawer App\obj\Debug\net7.0-windows\Navigation Drawer App.csproj.CoreCompileInputs.cache
+A:\WPFUI\Navigation Drawer App\obj\Debug\net7.0-windows\Navigation Drawer App.dll
+A:\WPFUI\Navigation Drawer App\obj\Debug\net7.0-windows\refint\Navigation Drawer App.dll
+A:\WPFUI\Navigation Drawer App\obj\Debug\net7.0-windows\Navigation Drawer App.pdb
+A:\WPFUI\Navigation Drawer App\obj\Debug\net7.0-windows\Navigation Drawer App.genruntimeconfig.cache
+A:\WPFUI\Navigation Drawer App\obj\Debug\net7.0-windows\ref\Navigation Drawer App.dll
